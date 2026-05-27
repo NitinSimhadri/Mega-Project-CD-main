@@ -134,7 +134,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: nitin52050/bankapp:v19
+        image: nitin52050/bankapp:v21
         resources:
           requests:
             memory: "256Mi"
